@@ -10,3 +10,7 @@
 ## Материалы семинаров
 
 - [01-intro](01-intro)
+
+## Обратная братная связь
+
+Если хотите анонимно пожаловаться или похвалить, это увижу только я: [link](https://docs.google.com/forms/d/e/1FAIpQLSfH1oh-_ZVIZpovrRn-uyNlTVfVGusHhlAkH_q2GLXia7WWVA/viewform)
