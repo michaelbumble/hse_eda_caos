@@ -11,6 +11,6 @@
 
 - [01-intro](01-intro)
 
-## Обратная братная связь
+## Анонимная обратная связь
 
-[link](https://docs.google.com/forms/d/e/1FAIpQLSfH1oh-_ZVIZpovrRn-uyNlTVfVGusHhlAkH_q2GLXia7WWVA/viewform)
+- [link](https://docs.google.com/forms/d/e/1FAIpQLSfH1oh-_ZVIZpovrRn-uyNlTVfVGusHhlAkH_q2GLXia7WWVA/viewform)
