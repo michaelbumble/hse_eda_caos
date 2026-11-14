@@ -19,7 +19,7 @@ int main() {
   printf("int: %-4d\n", x);
 
   unsigned a, b;
-  // scanf возвращает количество успешных чтений или EOF
+  
   if (scanf("%u%u", &a, &b) != 2) {
     fprintf(stderr, "Expected two unsigned integers\n");
     return 1;
