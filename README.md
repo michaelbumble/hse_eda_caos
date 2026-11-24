@@ -1,6 +1,6 @@
 # CAOS (Computer Architecture and Operating Systems) HSE EDA
 
-### Оценка за семинары
+### Оценка за семинары 
 
 `min(Количество посещений; 10)`
 
